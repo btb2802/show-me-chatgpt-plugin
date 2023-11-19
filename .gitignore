@@ -1,6 +1,0 @@
-node_modules/
-wrangler.toml
-build/
-
-# Miniflare cache / kv local store
-.mf/
